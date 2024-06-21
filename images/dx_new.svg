@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 119.92 119.92">
+  <defs>
+    <style>
+      .\34 eab6df7-a1e8-47f5-bb78-26650e38ee64, .db132208-652e-4ffc-8d7a-b2462b6a99dc {
+        fill: none;
+        stroke: #353a40;
+      }
+
+      .\34 eab6df7-a1e8-47f5-bb78-26650e38ee64 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .db132208-652e-4ffc-8d7a-b2462b6a99dc {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <title>DX_new_1</title>
+  <g id="eb00297e-6df3-4d3d-9995-8d9c25ccd1a7" data-name="Livello 2">
+    <g id="c50660e3-e65f-4e87-92db-125aa3dc66c7" data-name="Livello 1">
+      <circle class="4eab6df7-a1e8-47f5-bb78-26650e38ee64" cx="59.96" cy="59.96" r="58.96"/>
+      <polyline class="db132208-652e-4ffc-8d7a-b2462b6a99dc" points="46.4 93.29 83.12 59.96 46.4 26.63"/>
+    </g>
+  </g>
+</svg>
