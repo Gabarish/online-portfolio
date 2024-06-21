@@ -1,0 +1,253 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="barzilai.eu" resolutions="1x" timestamp="1718967973256">
+  <folder name="css">
+    <file name="site_global.css" crc="501809622"/>
+    <file name="index.css" crc="205463370" ref="index"/>
+    <file name="nomq_index.css" crc="75211992" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="mohave-semibold.woff" crc="306664180"/>
+    <file name="mohave-semibold.eot" crc="113094821"/>
+    <file name="mohave-semibold.svg" crc="525942796"/>
+    <file name="mohave-regular.woff" crc="244479392"/>
+    <file name="mohave-regular.eot" crc="27856374"/>
+    <file name="mohave-regular.svg" crc="3944318118"/>
+    <file name="alegreya-regular.woff" crc="258830512"/>
+    <file name="alegreya-regular.eot" crc="429093778"/>
+    <file name="alegreya-regular.svg" crc="3902447720"/>
+    <file name="alegreya-bolditalic.woff" crc="500242693"/>
+    <file name="alegreya-bolditalic.eot" crc="338903112"/>
+    <file name="alegreya-bolditalic.svg" crc="236048707"/>
+  </folder>
+  <folder name="assets">
+    <file name="annoyance_interaction_barzilai.pdf" crc="313289235" seo="true" mt="1466118468000"/>
+    <file name="final-paper_barzilai_watchout.pdf" crc="152586118" seo="true" mt="1497611426000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="back_proj.svg" crc="4202112265" ref="index"/>
+    <file name="back_proj_poster_u4497.png" crc="4050749264" ref="index"/>
+    <file name="12_sub-crop-u77674.jpg" crc="323775836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15_tea_high-crop-u77649.jpg" crc="30152133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="risorsa-1.svg" crc="3858112407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="risorsa 1_poster_.png" crc="168490940" ref="index"/>
+    <file name="risorsa-2.svg" crc="3872352409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="risorsa 2_poster_.png" crc="4164670000" ref="index"/>
+    <file name="risorsa-3.svg" crc="4280082071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="risorsa 3_poster_.png" crc="3963397178" ref="index"/>
+    <file name="2_tea-u79511.png" crc="285286519" ref="index"/>
+    <file name="set_3-crop-u79608.jpg" crc="402276346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20151211-wa0003-crop-u79693.jpg" crc="271915114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6887-2-crop-u79778.jpg" crc="141888944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1716-crop-u79863.jpg" crc="4084907910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1710-crop-u79948.jpg" crc="4105171614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6862-crop-u80033.jpg" crc="157666473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6812-crop-u80118.jpg" crc="248956559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6796-crop-u80203.jpg" crc="4031633121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="filter-crop-u80288.jpg" crc="499938379" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_sub-crop-u80373.jpg" crc="4032619714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13_tea-crop-u80458.jpg" crc="3829965951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17_tea-crop-u80543.jpg" crc="4230899084" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6821-crop-u80628.jpg" crc="351971424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6822-crop-u80713.jpg" crc="4020011130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20_tea-crop-u80798.png" crc="33053251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19_tea-crop-u80883.jpg" crc="417798361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infusion-crop-u80968.png" crc="18252235" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21_tea-crop-u81053.jpg" crc="4205360727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sx_new.svg" crc="4151905531" ref="index"/>
+    <file name="sx_new_poster_u17061.png" crc="77448307" ref="index"/>
+    <file name="dx_new.svg" crc="440635301" ref="index"/>
+    <file name="dx_new_poster_u17072.png" crc="77982529" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="12_sub-crop-u776742.jpg" crc="3961248817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15_tea_high-crop-u776492.jpg" crc="489011017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_tea-u795112.png" crc="80950317" ref="index"/>
+    <file name="set_3-crop-u796082.jpg" crc="125446479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20151211-wa0003-crop-u796932.jpg" crc="437581602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6887-2-crop-u797782.jpg" crc="4023960235" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1716-crop-u798632.jpg" crc="438441917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1710-crop-u799482.jpg" crc="4159221912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6862-crop-u800332.jpg" crc="3970379119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6812-crop-u801182.jpg" crc="4195879570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6796-crop-u802032.jpg" crc="4060079771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="filter-crop-u802882.jpg" crc="475688199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_sub-crop-u803732.jpg" crc="4264675655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13_tea-crop-u804582.jpg" crc="267303786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17_tea-crop-u805432.jpg" crc="4071927194" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6821-crop-u806282.jpg" crc="416177158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6822-crop-u807132.jpg" crc="4125026655" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20_tea-crop-u807982.png" crc="257433977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19_tea-crop-u808832.jpg" crc="47526261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infusion-crop-u809682.png" crc="38156912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21_tea-crop-u810532.jpg" crc="315997262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_sub-crop-u776743.jpg" crc="3838343399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15_tea_high-crop-u776493.jpg" crc="4171539333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_tea255x357.jpg" crc="13728307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="set_3-crop-u796083.jpg" crc="3928672796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20151211-wa0003-crop-u796933.jpg" crc="3870462092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6887-2-crop-u797783.jpg" crc="4174500812" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1716-crop-u798633.jpg" crc="369067182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1710-crop-u799483.jpg" crc="3813504105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6862-crop-u800333.jpg" crc="3918818468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6812-crop-u801183.jpg" crc="392600698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6796-crop-u802033.jpg" crc="28880962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="filter-crop-u802883.jpg" crc="224929790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12_sub-crop-u803733.jpg" crc="3838343399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13_tea-crop-u804583.jpg" crc="3869799243" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17_tea-crop-u805433.jpg" crc="3958043906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6821-crop-u806283.jpg" crc="3867355083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_6822-crop-u807133.jpg" crc="3908970009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20_tea-crop-u807983.png" crc="372330483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19_tea-crop-u808833.jpg" crc="3973402267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infusion-crop-u809683.png" crc="3778756417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21_tea-crop-u810533.jpg" crc="494596201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="487434128" seo="true" mt="1718967917903" redirect="true"/>
+</manifest>
